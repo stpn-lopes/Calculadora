@@ -1,0 +1,109 @@
+* {
+    font-family: sans-serif, arial;
+    font-weight: bolder;
+}
+
+body {
+    display: flex;
+    margin: auto;
+    width: 90%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    background-image: url(https://i.gifer.com/76YS.gif);
+}
+
+button {
+    width: 70px;
+    height: 70px;
+}
+
+
+.content {
+    margin-top: 10px;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 95vh;
+    width: 80vh;
+    background-color: rgba(245, 243, 243, 0.911);
+}
+
+
+.title {
+    padding: 25px 0 0 0;
+    margin: 0;
+    font-size: 55px;
+    color: tomato;
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+
+.divResult {
+    width: 75%;
+    height: 70px;
+    margin-bottom: 2%;
+    display: flex;
+}
+
+#display { 
+    display: flex;
+    background-color: transparent;
+    border: transparent;
+    width: 50vh;
+    height: 70px;
+    text-align: center;
+    color: white;
+}
+
+.btnClear {
+    width: 72px;
+    height: 72px;
+    border-radius: 100%;
+    background-color: white;
+    font-size: 18px;
+    color: tomato;
+}
+
+
+.divbutton {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 35px;
+}
+
+.first, .second, .third, .fourth {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    width: 60vh;
+}
+
+.button, .btnEqual {
+    align-items: center;
+    justify-content: center;
+    margin: 1%;
+    border-radius: 100%;
+    font-size: 25px;
+    border: none;
+}
+
+.button {
+    background-color: rgb(136, 127, 127);  
+}
+
+.btnEqual {
+    background-color: rgb(184, 29, 2);
+    
+}
+
+.signal {
+    background-color: white;
+    color: tomato;
+}

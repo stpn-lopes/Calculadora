@@ -1,49 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Calculadora</title>
-</head>
-<body>
-    <h1>Calculadora</h1>
-    <div class="result">
-        <input type="text"/>
-    </div>
-    <span class="lineblock"></span>
-    <div class="line">
-        <span class="line1">C</span>
-        <span class="line1">()</span>
-        <span class="line1">%</span>
-        <span class="line1">/</span>
-    </div>
-    <div class="line">
-        <span class="line2">7</span>
-        <span class="line2">8</span>
-        <span class="line2">9</span>
-        <span class="line2">x</span>
-    </div>
-    <div class="line">
-        <span class="line3">4</span>
-        <span class="line3">5</span>
-        <span class="line3">6</span>
-        <span class="line3">-</span>
-    </div>
-    <div class="line">
-        <span class="line4">1</span>
-        <span class="line4">2</span>
-        <span class="line4">3</span>
-        <span class="line4">+</span>
-    </div>
-    <div class="line">
-        <span class="line5">+/-</span>
-        <span class="line5">0</span>
-        <span class="line5">.</span>
-        <span class="line5">=</span>
-    </div>
-    <footer>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Calculadora</title>
+        <link rel="stylesheet" type="text/css" href="/CSS3/styles.css">
+    </head>
 
-    </footer>
-</body>
+    <body>
+        <div class="content">
+            <h1 class="title">Calculator<span>&reg;</span></h1>
+            <div class="divResult">
+                <button class="btnClear">Clear</button>
+                <input type="text" name="display" id="display" disabled/>
+            </div>            
+            <div class="divbutton">
+                <section class="first">
+                    <button class="button" value="7">7</button>
+                    <button class="button" value="8">8</button>
+                    <button class="button" value="9">9</button>
+                    <button class="button signal" value="*">x</button>
+                </section>
+                <section class="second">
+                    <button class="button" value="4">4</button>
+                    <button class="button" value="5">5</button>
+                    <button class="button" value="6">6</button>
+                    <button class="button signal" value="-">-</button>
+                </section>
+                <section class="third">
+                    <button class="button" value="1">1</button>
+                    <button class="button" value="2">2</button>
+                    <button class="button" value="3">3</button>
+                    <button class="button signal" value="4">+</button>
+                </section>
+                <section class="fourth">
+                    <button class="button" value="0">0</button>
+                    <button class="button" value=".">.</button>
+                    <button class="button signal" value="/">/</button>
+                    <button class="btnEqual" value="=">=</button>
+                </section>
+                </div>
+        </div>
+    </body>
 </html>
