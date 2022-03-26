@@ -1,21 +1,20 @@
 # **Calculadora**
 ### Sumário
 
-* <a href="">Um pouco sobre o Projeto</a>
-* <a href="">Checklist do projeto Calculadora</a>
-* <a href="">Links utéis</a>
+* <a href="https://github.com/stpn-lopes/Calculadora/README.md#um-pouco-sobre-o-projeto">Um pouco sobre o Projeto</a>
+* <a href="https://github.com/stpn-lopes/Calculadora/README.md#-checklist-do-projeto-calculadora-">Checklist do projeto Calculadora</a>
 
 #
 
-###Um pouco sobre o projeto
+<h3>Um pouco sobre o projeto</h3>
 
-<p> A estrutura da calculadora foi desenvolvida com HTML5 e estilizada por CSS3, fazendo uso das propriedades do FlexBox para auxiliar na criação do layout da página. E tem por principal objetivo praticar meus conhecimentos cada vez mais, sendo que logo pretendo trazer a linguagem JavaScript para trazer a funcionalidade a calculadora e torna-la de fato algo funcional.  </p>
+<p> A estrutura da calculadora foi desenvolvida com HTML5 e estilizada por CSS3, fazendo uso das propriedades do FlexBox para auxiliar na criação do layout da página. E tem por principal objetivo praticar meus conhecimentos cada vez mais, sendo que logo pretendo trazer a linguagem JavaScript para trazer a funcionalidade a calculadora e torna-la de fato algo funcional. </p>
 
 <img src="/img/example_calculadora.png" alt="example da interface da calculadora">
 
 # 
 
-### Checklist do projeto Calculadora
+<h3> Checklist do projeto Calculadora </h3>
 
 - [x] Título;
 - [x] Display para saída de dados;
@@ -30,6 +29,4 @@
 - [ ] Trazer funcionalidade com o uso de JavaScript.
 
 
-
-# 
 
