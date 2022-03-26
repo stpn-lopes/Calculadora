@@ -6,7 +6,7 @@
 
 #
 
-<h3>Um pouco sobre o projeto</h3>
+<h3> 📑 Um pouco sobre o projeto</h3>
 
 <p> A estrutura da calculadora foi desenvolvida com HTML5 e estilizada por CSS3, fazendo uso das propriedades do FlexBox para auxiliar na criação do layout da página. E tem por principal objetivo praticar meus conhecimentos cada vez mais, sendo que logo pretendo trazer a linguagem JavaScript para trazer a funcionalidade a calculadora e torna-la de fato algo funcional. </p>
 
@@ -14,7 +14,7 @@
 
 # 
 
-<h3> Checklist do projeto Calculadora </h3>
+<h3> ✔️ Checklist do projeto Calculadora </h3>
 
 - [x] Título;
 - [x] Display para saída de dados;
