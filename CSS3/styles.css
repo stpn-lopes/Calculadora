@@ -1,3 +1,4 @@
+/* definições globais */
 * {
     font-family: sans-serif, arial;
     font-weight: bolder;
@@ -18,7 +19,7 @@ button {
     height: 70px;
 }
 
-
+/* Definições do conteúdo */
 .content {
     margin-top: 10px;
     padding: 5px;
@@ -31,7 +32,6 @@ button {
     background-color: rgba(245, 243, 243, 0.911);
 }
 
-
 .title {
     padding: 25px 0 0 0;
     margin: 0;
@@ -42,7 +42,7 @@ button {
     justify-content: center;
 }
 
-
+/* Definições do display da calculadora*/
 .divResult {
     width: 75%;
     height: 70px;
@@ -69,7 +69,7 @@ button {
     color: tomato;
 }
 
-
+/*Definições sobre os buttons e suas fileiras*/
 .divbutton {
     display: flex;
     flex-direction: column;
