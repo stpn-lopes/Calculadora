@@ -8,9 +8,9 @@
 
 <h3> 📑 Um pouco sobre o projeto</h3>
 
-<p> A estrutura da calculadora foi desenvolvida com HTML5 e estilizada por CSS3, fazendo uso das propriedades do FlexBox para auxiliar na criação do layout da página. E tem por principal objetivo praticar meus conhecimentos cada vez mais, sendo que logo pretendo trazer a linguagem JavaScript para trazer a funcionalidade a calculadora e torna-la de fato algo funcional. </p>
+<p> A estrutura da calculadora foi desenvolvida com HTML5 e estilizada por CSS3, fazendo uso das propriedades do FlexBox para auxiliar na criação do layout da página. E tem por principal objetivo a prática de meus conhecimentos. Abaixo está um gif que mostra como está o funcionamento: </p>
 
-<img src="/img/example_calculadora.png" alt="example da interface da calculadora">
+<img src="/img/example.gif" alt="example da interface da calculadora">
 
 # 
 
@@ -22,7 +22,7 @@
 - [x] Botões com os operadores matemáticos;
 - [x] Botão com a função de limpar o display;
 - [x] Botão com a função de calcular;
-- [ ] Adicionar efeitos nos botões quando o mouse se aproximar;
+- [x] Adicionar efeitos nos botões quando o mouse se aproximar;
 - [x] Gif de fundo do site;
 - [x] Uso de Flexbox;
 - [ ] Responsividade;
