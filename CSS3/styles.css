@@ -35,7 +35,7 @@ button {
 .title {
     padding: 20px 0 15px 0;
     margin: 0;
-    font-size: 55px;
+    font-size: 50px;
     color: blueviolet;
     font-family: Impact, 'Arial Narrow Bold', sans-serif;
     display: flex;
@@ -136,4 +136,41 @@ button {
 .title:hover:after {
     content:"<by Steph>";
     font-size:15px;
+}
+
+/*trazendo responsividade*/
+@media (max-width: 340px) {
+    .calculator {
+        width:100%;
+    }
+    .title {
+        font-size: 25px;
+    } 
+    .divResult {
+        width: 20%;
+    }
+    #display {
+        width: 130px;
+        height: 40px;
+    }
+    .btnClear{
+        width: 47px;
+        height: 41px;
+        font-size: 10px;
+    }
+    .divbutton{
+        min-width: 270px;
+        min-height: 20px;
+    }
+    button{
+        width: 35px;
+        height: 35px;
+    }
+    .first, .second, .third, .fourth{
+        width: 70%;
+    }
+    .title:hover {
+       content: none;
+       font-size: inherit;
+     }
 }
