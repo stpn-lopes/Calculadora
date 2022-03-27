@@ -111,10 +111,12 @@ button {
     color: blueviolet;
 }
 
+/* Definições de efeitos */
 .button:hover {
     background-color: rgb(146, 5, 87);
     color:white;
     transform: scale(1.1);
+    cursor:pointer;
 }
 
 .btnEqual:hover, .btnClear:hover {
@@ -122,9 +124,16 @@ button {
     transition: all 0.5s ease-in;
     background-color: rgb(45, 136, 221);
     color: white;
+    cursor: pointer;
+}
+
+.title:hover {
+    transition: all 0.7s ease-in-out;
+    transition-delay: 0.2s;
+    color: rgb(45, 136, 221);
 }
 
 .title:hover:after {
-    content:"<by Steph>"center;
+    content:"<by Steph>";
     font-size:15px;
 }
