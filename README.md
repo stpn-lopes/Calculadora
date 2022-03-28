@@ -29,6 +29,8 @@
 - [x] Responsividade;
 - [x] Trazer funcionalidade com o uso de JavaScript.
 
+##
+
 <h3> 💻 &nbsp; Tecnologias utilizadas </h3>
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code&logoColor=981C9E&labelColor=black) &nbsp;
