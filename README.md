@@ -9,10 +9,7 @@
 <h3> 📑 Um pouco sobre o projeto</h3>
 
 <p> A estrutura da calculadora foi desenvolvida com HTML5 e estilizada por CSS3, fazendo uso das propriedades do FlexBox para auxiliar na criação do layout da página. E tem por principal objetivo a prática de meus conhecimentos. Abaixo está um gif que mostra como está o funcionamento: </p>
-
-https://user-images.githubusercontent.com/91392505/160315198-db2c6f88-8162-4bcb-b503-9b1caedf89f0.mp4
-
-
+<div align="center"><img src="https://github.com/stpn-lopes/Calculadora/blob/main/img/example.gif" alt="exemplo do projeto mostrando o funcionamento por meio de gif"/></div>
 
 # 
 
