@@ -1,10 +1,10 @@
 # **Calculadora**
 ### Sumário
 
-* <a href="https://github.com/stpn-lopes/Calculadora/README.md#um-pouco-sobre-o-projeto">Um pouco sobre o Projeto</a>
-* <a href="https://github.com/stpn-lopes/Calculadora/README.md#-checklist-do-projeto-calculadora-">Checklist do projeto Calculadora</a>
-* <a href="https://github.com/stpn-lopes/Calculadora/README.md#---tecnologias-utilizadas-">Tecnologias utilizadas</a>
-* <a href="https://github.com/stpn-lopes/Calculadora/README.md#%EF%B8%8F-links-%C3%BAteis">Links Úteis</a>
+* <a href="https://github.com/stpn-lopes/Calculadora/blob/main/README.md#--um-pouco-sobre-o-projeto">Um pouco sobre o Projeto</a>
+* <a href="https://github.com/stpn-lopes/Calculadora/blob/main/README.md#-%EF%B8%8F--checklist-do-projeto-calculadora-">Checklist do projeto Calculadora</a>
+* <a href="https://github.com/stpn-lopes/Calculadora/blob/main/README.md#---tecnologias-utilizadas-">Tecnologias utilizadas</a>
+* <a href="https://github.com/stpn-lopes/Calculadora/blob/main/README.md#%EF%B8%8F-links-%C3%BAteis">Links Úteis</a>
 
 #
 
@@ -37,9 +37,8 @@
 ![CSS](https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=CSS3&logoColor=981C9E&labelColor=) &nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript&logoColor=981C9E&labelColor=black)
 
-<br>
-
 ##
+
 ### ✔️ Links Úteis
 
 <ul>
