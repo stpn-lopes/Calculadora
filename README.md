@@ -1,4 +1,7 @@
+<img align="right" src="https://cdn-icons-png.flaticon.com/512/3696/3696447.png" width="400px"/>
+
 # **Calculadora**
+
 ### Sumário
 
 * <a href="https://github.com/stpn-lopes/Calculadora/blob/main/README.md#--um-pouco-sobre-o-projeto">Um pouco sobre o Projeto</a>
